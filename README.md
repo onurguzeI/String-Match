@@ -4,9 +4,9 @@ This algorithm uses brute force string matching technique to fill in the blanks 
 
 # How to Use 
 
-Change the parameters in the code as shown below and compile it.
+Change the parameters in the code as shown below and compile it
 
 ```c#
-vector<string> statements = splitStatements("[Statements_File]");
-vector<string> sentences = splitSentences("[Input_File]");
+vector<string> statements = splitStatements("[Statements_File_Name]");
+vector<string> sentences = splitSentences("[Input_File_Name]");
 ```
