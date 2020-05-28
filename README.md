@@ -2,7 +2,7 @@
 
 This algorithm uses brute force string matching technique to fill in the blanks for a given input and statements file. 
 
-# How to Use 
+## How to Use 
 
 Change the parameters in the code as shown below and compile it
 
